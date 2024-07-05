@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Edoardobanks
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning how to code with purpose
+- 📫 Text me wherever, whenever
